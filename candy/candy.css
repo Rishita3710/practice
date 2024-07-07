@@ -1,3 +1,22 @@
 body{
     background: #FFC0CB;
+    font-family: sans-serif;
+}
+#mainNav{
+    font-size: 1.4rem;
+    height: 100;
+    letter-spacing: 3px;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: red;
+}
+#headingGroup h1{
+     font-weight: 100;
+     font-size: 4rem;
+}
+#headingGroup span{
+    color: red;
 }
