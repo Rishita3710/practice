@@ -2,6 +2,11 @@ body{
     background: #FFC0CB;
     font-family: sans-serif;
 }
+.main{
+    color: red;
+    height: 100;
+    letter-spacing: 3px;
+}
 #mainNav{
     font-size: 1.4rem;
     height: 100;
@@ -19,4 +24,12 @@ body{
 }
 #headingGroup span{
     color: red;
+}
+.lead{
+    height: 100;
+    letter-spacing: 3px;
+    color: #ff95a9;
+}
+.navbar.scrolled{
+    background: rgb(222, 192, 222);
 }
